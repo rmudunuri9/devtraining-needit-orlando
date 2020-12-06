@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>read</operation>
+        <source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-06 19:10:40</sys_created_on>
+        <sys_id>e2b5ea272fbc2010c77d578b2799b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>problem</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_scope_privilege_e2b5ea272fbc2010c77d578b2799b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-06 19:10:40</sys_updated_on>
+        <target_name>problem</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f68b1588db0a17887e55d5b0cf961971</instance_id>
+        <instance_name>dev58684</instance_name>
+        <name>sys_scope_privilege_e2b5ea272fbc2010c77d578b2799b6c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>read</operation><source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-12-06 19:10:40</sys_created_on><sys_id>e2b5ea272fbc2010c77d578b2799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>problem</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_scope_privilege_e2b5ea272fbc2010c77d578b2799b6c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-12-06 19:10:40</sys_updated_on><target_name>problem</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>532820679</payload_hash>
+        <record_name>problem</record_name>
+        <reverted_from/>
+        <source>59a2a2ef2f7c2010c77d578b2799b699</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-06 19:10:40</sys_created_on>
+        <sys_id>e2b5ea272fbc2010c77d578b2799b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1763976909c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-06 19:10:40</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>eab5ea2755bc201016411deae0bf4dc7</update_guid>
+        <update_guid_history>eab5ea2755bc201016411deae0bf4dc7:532820679</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-06 19:11:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>282ef5e2f2734baf84aea0e5d39088d9</sys_id>
+        <sys_metadata>e2b5ea272fbc2010c77d578b2799b6c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>problem</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_e2b5ea272fbc2010c77d578b2799b6c6</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_e2b5ea272fbc2010c77d578b2799b6c6">e2b5ea272fbc2010c77d578b2799b6c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-06 19:11:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
